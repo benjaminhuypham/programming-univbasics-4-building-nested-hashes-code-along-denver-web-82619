@@ -21,8 +21,8 @@ def fourth_challenge
       :heroine_friends => [
         {:name => "Steven",
          :age => 30,
-         :attitude => "worried"},
-         {:name => "Benvolio",
+         :attitude => "confused"},
+         {:name => "Nurse",
          :age => 17,
          :attitude => "worried"}
         #your hashes here!
